@@ -1,0 +1,16 @@
+.tfsp_loading{
+    display:block;
+    background-image: url('../images/placeholder-loader.gif');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #333;
+    margin-left:-20px;
+    opacity: 0.4;
+    position: fixed;
+    height: 100%!important;
+    width: 90%!important;
+}
+
+#response_output_close{
+    cursor:pointer;
+}
